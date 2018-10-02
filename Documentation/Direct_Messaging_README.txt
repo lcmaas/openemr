@@ -45,10 +45,10 @@ E. What you need before enabling Direct Messaging in OpenEMR:
 https://www.emrdirect.com/subscribe-developer  
 Access to a sandbox server is available for testing and development purposes.
 
-2. Production Mode: Healthcare provider users should begin by signing up for a production 
+2. Production Mode: Healthcare users should begin by signing up for a production 
 Direct messaging account with EMR Direct by registering at https://www.emrdirect.com/subscribe
 
-Subscribers will receive the username, password, and server address information with which to 
+Subscribers then will receive the username, password, and server address information with which to 
 configure OpenEMR.  
 
 F. How to enable the Direct Messaging Features in OpenEMR:
@@ -202,7 +202,7 @@ The Documents and the Patient Note are initially created without an assigned pat
 
 At this time, the envisioned workflow is that the notification user will review the message text
 and any included Documents to determine which patient the content belongs to and will then set the 
-patient using the existing Patient Note interface for choosing a patient. Once the patient is sent, 
+patient using the existing Patient Note interface for choosing a patient. Once the patient is set, 
 the Patient Note can be forwarded to another provider or staff member as appropriate using the 
 existing forwarding mechanism for Patient Notes. The unassigned Documents can be viewed by Selecting 
 Miscellaneous::New Documents from the main left navigation menu, which opens a Documents list. Once 
@@ -213,5 +213,5 @@ Documents interface.
 
 Trademark Notice: phiMail is a registered trademark of EMR Direct.
 
-Copyright (c) 2013-2014 EMR Direct.
+Copyright (c) 2013-2018 EMR Direct.
 
